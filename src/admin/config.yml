@@ -10,7 +10,8 @@ collections:
     label: "Cuaderno"
     folder: "src/cuaderno"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.title_es}}"
+    identifier_field: "title_es"
     extension: "md"
     fields:
       - { label: "Título (ES)", name: "title_es", widget: "string" }
