@@ -342,6 +342,7 @@ section { padding: 6rem var(--gutter); }
 }
 .article-body-inner p + p { margin-top: 1.5rem; }
 .article-body-inner em { color: var(--accent); }
+.article-body-inner img { max-width: 100%; height: auto; border-radius: 4px; margin: 1.5rem 0; }
 
 .article-separator {
     max-width: var(--max-w-narrow);
