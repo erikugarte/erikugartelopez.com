@@ -42,6 +42,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/erik-ugarte.jpg");
     eleventyConfig.addPassthroughCopy("src/robots.txt");
     eleventyConfig.addPassthroughCopy("src/admin");
+    eleventyConfig.addPassthroughCopy("src/img");
 
     // Markdown config for post bodies (ES)
     eleventyConfig.setLibrary("md", md);
