@@ -10,7 +10,7 @@ collections:
     label: "Cuaderno"
     folder: "src/cuaderno"
     create: true
-    slug: "{{fields.title_es}}"
+    slug: "{{slug}}"
     identifier_field: "title_es"
     extension: "md"
     fields:
