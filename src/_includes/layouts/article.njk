@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+navActive: cuaderno
+ogType: article
+---
+    <div class="article-header">
+        <div class="article-header-inner">
+            <a href="/cuaderno/" class="article-back" data-lang="es">← Cuaderno</a>
+            <a href="/cuaderno/" class="article-back" data-lang="en">← Notebook</a>
+            <p class="article-date" data-lang="es">{{ date | dateEs }}</p>
+            <p class="article-date" data-lang="en">{{ date | dateEn }}</p>
+            <h1 class="article-h1" data-lang="es">{{ title_es }}</h1>
+            <h1 class="article-h1" data-lang="en">{{ title_en }}</h1>
+        </div>
+    </div>
+
+    <div class="article-body">
+        <hr class="article-separator">
+        <div class="article-body-inner" data-lang="es">
+            {{ content | safe }}
+        </div>
+
+        <div class="article-body-inner" data-lang="en">
+            {{ body_en | md | safe }}
+        </div>
+    </div>

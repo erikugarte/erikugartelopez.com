@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ pageTitle or title_es or "Erik Ugarte López" }} — Erik Ugarte López</title>
+    <meta name="description" content="{{ pageDescription or excerpt_es or '' }}">
+    {% if ogTitle or title_es %}<meta property="og:title" content="{{ ogTitle or title_es }}">{% endif %}
+    {% if ogDescription or excerpt_es %}<meta property="og:description" content="{{ ogDescription or excerpt_es }}">{% endif %}
+    {% if ogType %}<meta property="og:type" content="{{ ogType }}">{% endif %}
+    <meta property="og:image" content="https://erikugartelopez.com/erik-ugarte.jpg">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+
+{% include "partials/nav.njk" %}
+
+{{ content | safe }}
+
+{% include "partials/footer.njk" %}
+{% include "partials/scripts.njk" %}
+
+</body>
+</html>

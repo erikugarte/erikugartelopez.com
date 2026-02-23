@@ -1,0 +1,33 @@
+    <script>
+        const nav = document.getElementById('nav');
+        window.addEventListener('scroll', () => { nav.classList.toggle('scrolled', window.scrollY > 50); });
+        function closeMenu() { document.querySelector('.nav-links').classList.remove('open'); }
+        document.addEventListener('click', function(e) {
+            var menu = document.querySelector('.nav-links');
+            var hamburger = document.querySelector('.hamburger');
+            if (menu.classList.contains('open') && !menu.contains(e.target) && !hamburger.contains(e.target)) {
+                menu.classList.remove('open');
+            }
+        });
+        function toggleLang() {
+            const btn = document.querySelector('.lang-toggle');
+            const isEn = document.body.classList.toggle('lang-en');
+            btn.textContent = isEn ? 'ES' : 'EN';
+            document.documentElement.lang = isEn ? 'en' : 'es';
+            localStorage.setItem('lang', isEn ? 'en' : 'es');
+        }
+        if (localStorage.getItem('lang') === 'en') { document.body.classList.add('lang-en'); document.documentElement.lang = 'en'; document.querySelector('.lang-toggle').textContent = 'ES'; }
+        const observer = new IntersectionObserver(e => { e.forEach(el => { if (el.isIntersecting) el.target.classList.add('visible'); }); }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+    </script>
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", function(user) {
+                if (!user) {
+                    window.netlifyIdentity.on("login", function() {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+    </script>

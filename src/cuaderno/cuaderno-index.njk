@@ -1,0 +1,49 @@
+---
+layout: layouts/base.njk
+navActive: cuaderno
+pageTitle: "Cuaderno"
+pageDescription: "Cuaderno de Erik Ugarte López. Notas sobre escritura, inteligencia artificial y ficción especulativa."
+permalink: /cuaderno/index.html
+---
+    <div class="article-header">
+        <div class="article-header-inner">
+            <a href="/" class="article-back" data-lang="es">← Inicio</a>
+            <a href="/" class="article-back" data-lang="en">← Home</a>
+            <h1 class="article-h1" data-lang="es">Cuaderno</h1>
+            <h1 class="article-h1" data-lang="en">Notebook</h1>
+        </div>
+    </div>
+
+    <section style="padding-top: 0;">
+        <div class="section-inner">
+
+            {%- for post in collections.cuaderno %}
+            <a href="{{ post.url }}" class="cuaderno-teaser reveal" data-lang="es">
+                <p class="cuaderno-date">{{ post.data.date | dateEs }}</p>
+                <h3 class="cuaderno-title">{{ post.data.title_es }}</h3>
+                <p class="cuaderno-excerpt">{{ post.data.excerpt_es | safe }}</p>
+                <span class="cuaderno-read">Leer →</span>
+            </a>
+            <a href="{{ post.url }}" class="cuaderno-teaser reveal" data-lang="en">
+                <p class="cuaderno-date">{{ post.data.date | dateEn }}</p>
+                <h3 class="cuaderno-title">{{ post.data.title_en }}</h3>
+                <p class="cuaderno-excerpt">{{ post.data.excerpt_en | safe }}</p>
+                <span class="cuaderno-read">Read →</span>
+            </a>
+            {%- endfor %}
+
+            {%- for item in upcoming %}
+            <div class="cuaderno-teaser cuaderno-upcoming reveal" data-lang="es">
+                <p class="cuaderno-date">Próximamente</p>
+                <h3 class="cuaderno-title">{{ item.title_es | safe }}</h3>
+                <p class="cuaderno-excerpt">{{ item.excerpt_es }}</p>
+            </div>
+            <div class="cuaderno-teaser cuaderno-upcoming reveal" data-lang="en">
+                <p class="cuaderno-date">Coming soon</p>
+                <h3 class="cuaderno-title">{{ item.title_en | safe }}</h3>
+                <p class="cuaderno-excerpt">{{ item.excerpt_en }}</p>
+            </div>
+            {%- endfor %}
+
+        </div>
+    </section>

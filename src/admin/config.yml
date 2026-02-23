@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "src/img"
+public_folder: "/img"
+
+collections:
+  - name: "cuaderno"
+    label: "Cuaderno"
+    folder: "src/cuaderno"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    fields:
+      - { label: "Título (ES)", name: "title_es", widget: "string" }
+      - { label: "Title (EN)", name: "title_en", widget: "string" }
+      - { label: "Fecha", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Extracto (ES)", name: "excerpt_es", widget: "text" }
+      - { label: "Excerpt (EN)", name: "excerpt_en", widget: "text" }
+      - { label: "Descripción SEO", name: "pageDescription", widget: "text", required: false }
+      - { label: "Content (EN)", name: "body_en", widget: "markdown" }
+      - { label: "Contenido (ES)", name: "body", widget: "markdown" }
