@@ -1,0 +1,13 @@
+{
+  "name": "erikugartelopez-web",
+  "version": "1.0.0",
+  "description": "Erik Ugarte López — Escritor / Writer",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "markdown-it": "^14.0.0"
+  }
+}
