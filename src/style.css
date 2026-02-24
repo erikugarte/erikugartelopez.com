@@ -343,6 +343,16 @@ section { padding: 6rem var(--gutter); }
 .article-body-inner p + p { margin-top: 1.5rem; }
 .article-body-inner em { color: var(--accent); }
 .article-body-inner img { max-width: 100%; height: auto; border-radius: 4px; margin: 1.5rem 0; }
+.article-body-inner img.cuaderno {
+  max-width: 40%;
+  display: block;
+  margin: 2.5rem auto;
+}
+.article-body-inner img.cuaderno {
+  max-width: 40%;
+  display: block;
+  margin: 2.5rem auto;
+}
 
 .article-separator {
     max-width: var(--max-w-narrow);
@@ -369,6 +379,7 @@ section { padding: 6rem var(--gutter); }
 .sobre-bio-formal { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid rgba(0,0,0,0.06); }
 .sobre-bio-formal h3 { font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-light); margin-bottom: 1rem; font-weight: 400; }
 .sobre-bio-formal p { font-size: 0.88rem; line-height: 1.8; color: var(--text-light); }
+.article-body-inner img.cuaderno { max-width: 65%; }
 
 /* CONTACTO */
 .contacto-inner { max-width: var(--max-w); margin: 0 auto; text-align: center; padding: 4rem 0; }
