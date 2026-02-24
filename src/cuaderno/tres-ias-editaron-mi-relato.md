@@ -38,7 +38,7 @@ pageDescription: Usé Claude, Gemini y GPT como editores de La Franja. Una
   inventó diferencias que no existían. Otra me aduló. La tercera me dijo que
   dejara de tocar el texto.
 ---
-Escribí *La Franja* en varias semanas. Lo edité durante meses. Las últimas revisiones las hice con tres inteligencias artificiales trabajando como editores: Claude (Anthropic), Gemini (Google) y GPT (OpenAI). Les di el mismo texto. Les pedí lo mismo: pasadas de coherencia, estilo, ritmo, tono, diálogos, voz. Lo que recibí fueron <span class="marca">tres lecturas radicalmente distintas</span> del mismo material.
+Escribí *La franja* en varias semanas. Lo edité durante meses. Las últimas revisiones las hice con tres inteligencias artificiales trabajando como editores: Claude (Anthropic), Gemini (Google) y GPT (OpenAI). Les di el mismo texto. Les pedí lo mismo: pasadas de coherencia, estilo, ritmo, tono, diálogos, voz. Lo que recibí fueron <span class="marca">tres lecturas radicalmente distintas</span> del mismo material.
 
 Claude fue el más útil en las pasadas técnicas. Encontró un error de coherencia real —un niño de tres años atribuido al «segundo grupo» de pacientes, cuando ese grupo solo contenía adultos. Detectó ecos verbales («Esa noche» aparecía cuatro veces, tres de ellas en la misma parte) y densidad excesiva de símiles en la Parte II. Corrigió con precisión, sin tocar lo que funcionaba.
 
@@ -48,4 +48,4 @@ GPT fue el más interesante y el más equivocado. Comparó la versión «final»
 
 Lo que aprendí es sencillo. Las IAs son herramientas de revisión extraordinarias para el trabajo mecánico: coherencia temporal, ecos verbales, densidad de patrones, consistencia de punto de vista. En eso son mejores que cualquier lector humano en primera pasada, porque no se cansan y no se saltan líneas. Pero en el juicio editorial —saber cuándo un texto duele lo suficiente, cuándo una sentencia abstracta se ha ganado su lugar, cuándo dejar de tocar— siguen necesitando a un humano que decida. No porque las IAs no tengan criterio. Sino porque tienen demasiados criterios simultáneos y <span class="marca">ninguna piel en el juego</span>.
 
-El relato se llama *La Franja*. Trata sobre una franja de microondas de cuatro kilómetros de ancho que barre el Sahel de noche porque un meteorito golpeó un panel solar en la Luna. Está terminado. Llegué a esa certeza no porque tres IAs me lo dijeran, sino porque las correcciones que quedaban eran de las que solo se resuelven <span class="marca">escribiendo el siguiente relato</span>.
+El relato se llama *La franja*. Trata sobre una franja de microondas de cuatro kilómetros de ancho que barre el Sahel de noche porque un meteorito golpeó un panel solar en la Luna. Está terminado. Llegué a esa certeza no porque tres IAs me lo dijeran, sino porque las correcciones que quedaban eran de las que solo se resuelven <span class="marca">escribiendo el siguiente relato</span>.
