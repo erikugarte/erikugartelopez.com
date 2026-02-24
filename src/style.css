@@ -409,3 +409,9 @@ footer a:hover { color: var(--text); }
     .obra-header { flex-direction: column; }
     .article-header { padding-top: 6rem; }
 }
+
+/* MARCA — pincelada azul cuaderno */
+.marca {
+  background: linear-gradient(180deg, transparent 55%, #b8ced8 55%, #b8ced8 85%, transparent 85%);
+  padding: 0 2px;
+}
