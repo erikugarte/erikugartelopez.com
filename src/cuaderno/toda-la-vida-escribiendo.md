@@ -25,7 +25,7 @@ body_en: >-
   Then came other notebooks. Teenage poems, songs, first chapters of novels that stayed first chapters. Twenty pages, thirty, and the drawer. 
 
 
-  ![Handwritten notebook page](/img/recorte-cuaderno-1.jpg)
+  <img src="/img/recorte-cuaderno-1.jpg" alt="Página de cuaderno escrita a mano" class="cuaderno">
 
 
   A course spanning years at the Escuela de Escritores to learn to sustain a story beyond the first act. The centre was always the same — childhood, trauma, what happened in that house — but getting close to the centre was putting your hand in boiling water. A few seconds. Let go. Another novel. Another drawer.
@@ -73,11 +73,9 @@ Hay un cuaderno. Tiene la tapa azul y las esquinas dobladas y huele a cola de ba
 
 Ese cuaderno iba al <span class="marca">fondo del cajón</span>. Nadie lo leía. Esa era la condición.
 
-![Página de cuaderno escrita a mano](/img/recorte-cuaderno-1.jpg)
-
 Después vinieron otros cuadernos. Poemas de adolescente, canciones, primeros capítulos de novelas que se quedaban en primeros capítulos. Veinte páginas, treinta, y el cajón. 
 
-![Página de cuaderno escrita a mano](/img/recorte-cuaderno-1.jpg)
+<img src="/img/recorte-cuaderno-1.jpg" alt="Página de cuaderno escrita a mano" class="cuaderno">
 
 Un curso de años en la Escuela de Escritores para aprender a sostener una historia más allá del primer acto. El centro siempre era el mismo — la infancia, el trauma, lo que pasó en aquella casa — pero acercarse al centro era meter la mano en agua hirviendo. Unos segundos. Soltar. Otra novela. Otro cajón.
 
