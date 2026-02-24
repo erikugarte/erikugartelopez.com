@@ -22,7 +22,13 @@ body_en: >-
   That notebook went to the <span class="marca">bottom of the drawer</span>. No one read it. That was the condition.
 
 
-  Then came other notebooks. Teenage poems, songs, first chapters of novels that stayed first chapters. Twenty pages, thirty, and the drawer. A course spanning years at the Escuela de Escritores to learn to sustain a story beyond the first act. The centre was always the same — childhood, trauma, what happened in that house — but getting close to the centre was putting your hand in boiling water. A few seconds. Let go. Another novel. Another drawer.
+  Then came other notebooks. Teenage poems, songs, first chapters of novels that stayed first chapters. Twenty pages, thirty, and the drawer. 
+
+
+  ![Handwritten notebook page](/img/recorte-cuaderno-1.jpg)
+
+
+  A course spanning years at the Escuela de Escritores to learn to sustain a story beyond the first act. The centre was always the same — childhood, trauma, what happened in that house — but getting close to the centre was putting your hand in boiling water. A few seconds. Let go. Another novel. Another drawer.
 
 
   *La ballena de oro* got written like that. In pieces. Over years. Therapy that opened things that had been shut. A chapter after a session, three months without touching the manuscript, another chapter that contradicted the first. Circles that kept closing without anyone noticing.
@@ -67,7 +73,13 @@ Hay un cuaderno. Tiene la tapa azul y las esquinas dobladas y huele a cola de ba
 
 Ese cuaderno iba al <span class="marca">fondo del cajón</span>. Nadie lo leía. Esa era la condición.
 
-Después vinieron otros cuadernos. Poemas de adolescente, canciones, primeros capítulos de novelas que se quedaban en primeros capítulos. Veinte páginas, treinta, y el cajón. Un curso de años en la Escuela de Escritores para aprender a sostener una historia más allá del primer acto. El centro siempre era el mismo — la infancia, el trauma, lo que pasó en aquella casa — pero acercarse al centro era meter la mano en agua hirviendo. Unos segundos. Soltar. Otra novela. Otro cajón.
+![Página de cuaderno escrita a mano](/img/recorte-cuaderno-1.jpg)
+
+Después vinieron otros cuadernos. Poemas de adolescente, canciones, primeros capítulos de novelas que se quedaban en primeros capítulos. Veinte páginas, treinta, y el cajón. 
+
+![Página de cuaderno escrita a mano](/img/recorte-cuaderno-1.jpg)
+
+Un curso de años en la Escuela de Escritores para aprender a sostener una historia más allá del primer acto. El centro siempre era el mismo — la infancia, el trauma, lo que pasó en aquella casa — pero acercarse al centro era meter la mano en agua hirviendo. Unos segundos. Soltar. Otra novela. Otro cajón.
 
 *La ballena de oro* se fue escribiendo así. A trozos. Durante años. Una terapia que abrió cosas que estaban cerradas. Un capítulo después de una sesión, tres meses sin tocar el texto, otro capítulo que contradecía al primero. Círculos que se iban cerrando sin que se notara.
 
