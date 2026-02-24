@@ -28,7 +28,7 @@ body_en: >-
   <img src="/img/recorte-cuaderno-1.jpg" alt="Página de cuaderno escrita a mano" class="cuaderno">
 
 
-  A course spanning years at the Escuela de Escritores to learn to sustain a story beyond the first act. The centre was always the same — childhood, trauma, what happened in that house — but getting close to the centre was putting your hand in boiling water. A few seconds. Let go. Another novel. Another drawer.
+  A course spanning years at the [Escuela de Escritores](https://escueladeescritores.com/) to learn to sustain a story beyond the first act. The centre was always the same — childhood, trauma, what happened in that house — but getting close to the centre was putting your hand in boiling water. A few seconds. Let go. Another novel. Another drawer.
 
 
   *La ballena de oro* got written like that. In pieces. Over years. Therapy that opened things that had been shut. A chapter after a session, three months without touching the manuscript, another chapter that contradicted the first. Circles that kept closing without anyone noticing.
@@ -77,7 +77,7 @@ Después vinieron otros cuadernos. Poemas de adolescente, canciones, primeros ca
 
 <img src="/img/recorte-cuaderno-1.jpg" alt="Página de cuaderno escrita a mano" class="cuaderno">
 
-Un curso de años en la Escuela de Escritores para aprender a sostener una historia más allá del primer acto. El centro siempre era el mismo — la infancia, el trauma, lo que pasó en aquella casa — pero acercarse al centro era meter la mano en agua hirviendo. Unos segundos. Soltar. Otra novela. Otro cajón.
+Un curso de años en la [Escuela de Escritores](https://escueladeescritores.com/) para aprender a sostener una historia más allá del primer acto. El centro siempre era el mismo — la infancia, el trauma, lo que pasó en aquella casa — pero acercarse al centro era meter la mano en agua hirviendo. Unos segundos. Soltar. Otra novela. Otro cajón.
 
 *La ballena de oro* se fue escribiendo así. A trozos. Durante años. Una terapia que abrió cosas que estaban cerradas. Un capítulo después de una sesión, tres meses sin tocar el texto, otro capítulo que contradecía al primero. Círculos que se iban cerrando sin que se notara.
 
