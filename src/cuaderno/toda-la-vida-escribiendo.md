@@ -12,11 +12,11 @@ excerpt_en: There is a blue notebook with a list titled "Remedies." Thirty years
 body_en: >-
   There is a notebook. It has a blue cover and bent corners and smells of glue
   stick. Inside, a list in a child's handwriting. The list is titled "<span
-  class="marca">Remedies</span>." Below, loose words: some are names of people,
-  others are phrases that try to describe things a ten-year-old should not have
-  to describe. The list cures nothing. But it gives a name to what has no name,
-  and a child who can name what is happening to him is a child who can keep
-  walking.
+  class="marca">The remedies</span>." Below, loose words: some are names of
+  people, others are phrases that try to describe things a ten-year-old should
+  not have to describe. The list cures nothing. But it gives a name to what has
+  no name, and a child who can name what is happening to him is a child who can
+  keep walking.
 
 
   That notebook went to the <span class="marca">bottom of the drawer</span>. No one read it. That was the condition.
@@ -37,7 +37,7 @@ body_en: >-
   Not fragility — fragile is what breaks, and this did not break. Sensitivity with structure. Writing was not the cure — it fixed nothing. But it held up what remained.
 
 
-  From those years came stories. Some finished, others still growing. *Todo fue correcto* grew out of what you see inside the humanitarian system: the institutional silence, the impeccable reports, the machinery that works and does not work at the same time. The same silence that child learned to read in a house that was not his. *La Franja* came out of the Sahel — science fiction, a 0.4-degree error in a lunar panel and the nomads who pay the price while the world argues over statistics. *La noche en que murió Julia* comes from somewhere else: inland Galicia, inherited trauma, a woman who begins to feel things she cannot explain because someone stopped singing. And there are others. A vessel that holds dreams, in the hands of a Nepalese girl trapped in a trafficking ring. A world called *Saíd* where the sea is transparent and you can see the shoals of fish travelling in the distance and the sky is white but there are no clouds.
+  From those years came stories. Some finished, others still growing. *Todo fue correcto* grew out of what you see inside the humanitarian system: the institutional silence, the impeccable reports, the machinery that works and does not work at the same time. The same silence that child learned to read in a house that was not his. *La franja* came out of the Sahel — science fiction, a 0.4-degree error in a lunar panel and the nomads who pay the price while the world argues over statistics. *La noche en que murió Julia* comes from somewhere else: inland Galicia, inherited trauma, a woman who begins to feel things she cannot explain because someone stopped singing. And there are others. A vessel that holds dreams, in the hands of a Nepalese girl trapped in a trafficking ring. A world called *Saíd* where the sea is transparent and you can see the shoals of fish travelling in the distance and the sky is white but there are no clouds.
 
 
   Nothing is entirely made up. Experience stains everything — even the worlds that do not exist.
@@ -63,7 +63,7 @@ pageTitle: Toda la vida escribiendo
 pageDescription: Hay un cuaderno azul con una lista que se titula Remedios.
   Treinta años escribiendo para esconderse. Hasta ahora.
 ---
-Hay un cuaderno. Tiene la tapa azul y las esquinas dobladas y huele a cola de barra. Dentro hay una lista escrita con letra de niño. La lista se titula «<span class="marca">Remedios</span>.» Debajo hay palabras sueltas: algunas son nombres de personas, otras son frases que intentan describir cosas que un niño de diez años no debería tener que describir. La lista no cura nada. Pero le pone nombre a lo que no tiene nombre, y un niño al que le ponen nombre las cosas que le pasan es un niño que puede seguir caminando.
+Hay un cuaderno. Tiene la tapa azul y las esquinas dobladas y huele a cola de barra. Dentro hay una lista escrita con letra de niño. La lista se titula «<span class="marca">Los remedios</span>.» Debajo hay palabras sueltas: algunas son nombres de personas, otras son frases que intentan describir cosas que un niño de diez años no debería tener que describir. La lista no cura nada. Pero le pone nombre a lo que no tiene nombre, y un niño al que le ponen nombre las cosas que le pasan es un niño que puede seguir caminando.
 
 Ese cuaderno iba al <span class="marca">fondo del cajón</span>. Nadie lo leía. Esa era la condición.
 
@@ -77,7 +77,7 @@ Mientras tanto, lejos. Quince años en sitios donde las cosas se caen — gobier
 
 No es fragilidad — frágil es lo que se rompe, y eso no se rompió. Es sensibilidad con estructura. La escritura no era la cura — no arreglaba nada. Pero sostenía lo que quedaba.
 
-De esos años salieron historias. Algunas terminadas, otras que siguen creciendo. *Todo fue correcto* nació de lo que se ve dentro del sistema humanitario: el silencio institucional, los informes impecables, la maquinaria que funciona y no funciona al mismo tiempo. El mismo silencio que aquel niño aprendió a leer en una casa que no era la suya. *La Franja* salió del Sahel — ciencia ficción, un error de 0,4 grados en un panel lunar y los nómadas que pagan el precio mientras el mundo debate estadísticas. *La noche en que murió Julia* viene de otro lugar: Galicia interior, el trauma que se hereda sin palabras, una mujer que empieza a sentir cosas que no puede explicar porque alguien dejó de cantar. Y hay otras. Un cántaro que contiene sueños y lo posee una niña nepalí víctima de una red de trata. Un mundo llamado *Saíd* donde el mar es transparente y se ven los bancos de peces viajando a lo lejos y el cielo es blanco pero no hay nubes.
+De esos años salieron historias. Algunas terminadas, otras que siguen creciendo. *Todo fue correcto* nació de lo que se ve dentro del sistema humanitario: el silencio institucional, los informes impecables, la maquinaria que funciona y no funciona al mismo tiempo. El mismo silencio que aquel niño aprendió a leer en una casa que no era la suya. *La franja* salió del Sahel — ciencia ficción, un error de 0,4 grados en un panel lunar y los nómadas que pagan el precio mientras el mundo debate estadísticas. *La noche en que murió Julia* viene de otro lugar: Galicia interior, el trauma que se hereda sin palabras, una mujer que empieza a sentir cosas que no puede explicar porque alguien dejó de cantar. Y hay otras. Un cántaro que contiene sueños y lo posee una niña nepalí víctima de una red de trata. Un mundo llamado *Saíd* donde el mar es transparente y se ven los bancos de peces viajando a lo lejos y el cielo es blanco pero no hay nubes.
 
 Nada se inventa del todo. La experiencia lo tiñe todo — incluso los mundos que no existen.
 
