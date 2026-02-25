@@ -6,8 +6,8 @@ excerpt_es: En el capítulo dos de <em>La ballena de oro<em> hay un accidente. Y
   tiene palabras y música. Le pedí a una inteligencia artificial que le diera
   imagen. Lo que apareció se parecía a lo que llevo dentro — pero no fue la
   máquina la que acertó.
-excerpt_en: In chapter two of <em> La ballena de oro<em> there is an accident.
-  It already had words and music. I asked an AI to give it image. What appeared
+excerpt_en: In chapter two of <em>La ballena de oro<em> there is an accident. It
+  already had words and music. I asked an AI to give it image. What appeared
   resembled what I carry inside — but it was not the machine that got it right.
 pageDescription: "Tercer post del Cuaderno de Erik Ugarte López. Cómo usé Runway
   para dar imagen al accidente del capítulo dos de La ballena de oro — treinta
