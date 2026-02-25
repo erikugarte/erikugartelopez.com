@@ -57,7 +57,7 @@ body_en: >-
   El vídeo no se había publicado hasta ahora. Empieza con pétalos en la luz. Acaba con <span class="marca">luz sin pétalos</span>. Cincuenta y siete segundos. Como el accidente. Como el tiempo que tarda un recuerdo en recorrerte entero.
 
   <video controls playsinline width="100%" style="margin: 2em 0;">
-    <source src="el-dia-de-las-flores.mp4" type="video/mp4">
+     <source src="src/img/el-dia-de-las-flores-web.mp4" type="video/mp4">
   </video>
 ---
 In chapter two of La ballena de oro there is an accident. It is Mother's Day. A six-year-old boy walks out of a flower shop with a bouquet in his arms. His father has told him run, give her the flowers yourself. His mother is on the other side, watching him. She is not looking at the road — she is looking at the flowers. And at the boy carrying the flowers. A car comes round the bend. The bouquet never arrives.
@@ -80,5 +80,5 @@ When I saw the assembled result — the lone flower opening near the surface, th
 A bouquet that never reached a mother's hands. That is what the video is. A machine that knows nothing about any of this generated an image that resembles what I carry inside. But it was not the machine that got it right — it was <span class="marca">the effort of trying to explain it</span>. In that effort, something let go. In the chest, not in the head. The image was no longer only mine. It was out there, visible, like flowers that finally touch the bottom.
 The video had not been published until now. It begins with petals in the light. It ends with <span class="marca">light without petals</span>. Fifty-seven seconds. Like the accident. Like the time it takes a memory to travel through you whole.
 <video controls playsinline width="100%" style="margin: 2em 0;">
-  <source src="el-dia-de-las-flores.mp4" type="video/mp4">
+  <source src="src/img/el-dia-de-las-flores-web.mp4" type="video/mp4">
 </video>
