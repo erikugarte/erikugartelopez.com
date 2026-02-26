@@ -75,8 +75,10 @@ body_en: >-
   The video had not been published until now. It begins with petals in the light. It ends with <span class="marca">light without petals</span>. Fifty-seven seconds. Like the accident. Like the time it takes a memory to travel through you whole.
 
 
-  <video controls playsinline width="100%" style="margin: 2em 0;">
-    <source src="/img/el-dia-de-las-flores-web.mp4" type="video/mp4">
+  <video controls playsinline poster="/img/el-dia-de-las-flores-poster.jpg" width="100%" style="margin: 2em 0;">
+
+  <source src="/img/el-dia-de-las-flores-web.mp4" type="video/mp4">
+
   </video>
 ---
 En el capítulo dos de *La ballena de oro* hay un accidente. Es el Día de la Madre. Un niño de seis años sale de una floristería con un ramo entre los brazos. El padre le ha dicho *corre, dale tú el ramo*. La madre está al otro lado, mirándolo. No mira la carretera — mira las flores. Y al niño con las flores. Un coche sale de la curva. El ramo nunca llega.
@@ -117,6 +119,6 @@ Un ramo que nunca llegó a las manos de una madre. Eso es lo que es el vídeo. U
 
 El vídeo no se había publicado hasta ahora. Empieza con pétalos en la luz. Acaba con <span class="marca">luz sin pétalos</span>. Cincuenta y siete segundos. Como el accidente. Como el tiempo que tarda un recuerdo en recorrerte entero.
 
-<video controls playsinline width="100%" style="margin: 2em 0;">
-  <source src="/img/el-dia-de-las-flores-web.mp4" type="video/mp4">
+<video controls playsinline poster="/img/el-dia-de-las-flores-poster.jpg" width="100%" style="margin: 2em 0;">
+<source src="/img/el-dia-de-las-flores-web.mp4" type="video/mp4">
 </video>
