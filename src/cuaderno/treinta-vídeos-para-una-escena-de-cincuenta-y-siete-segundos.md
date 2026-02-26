@@ -12,6 +12,7 @@ pageDescription: "Tercer post del Cuaderno de Erik Ugarte López. Cómo usé Run
   para dar imagen al accidente del capítulo dos de La ballena de oro — treinta
   generaciones de vídeo, flores bajo el agua y lo que pasa cuando intentas
   traducir un recuerdo. "
+ogImage: /img/el-dia-de-las-flores-poster.jpg
 body_en: >-
   In chapter two of *La ballena de oro* there is an accident. It is Mother's
   Day. A six-year-old boy walks out of a flower shop with a bouquet in his arms.
