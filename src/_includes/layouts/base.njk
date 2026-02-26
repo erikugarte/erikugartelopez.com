@@ -6,7 +6,7 @@
     <title>{{ pageTitle or title_es or "Erik Ugarte López" }} — Erik Ugarte López</title>
     <meta name="description" content="{{ pageDescription or excerpt_es or '' }}">
     {% if ogTitle or title_es %}<meta property="og:title" content="{{ ogTitle or title_es }}">{% endif %}
-    {% if ogDescription or excerpt_es %}<meta property="og:description" content="{{ ogDescription or excerpt_es }}">{% endif %}
+    {% if pageDescription or excerpt_es %}<meta property="og:description" content="{{ pageDescription or excerpt_es }}">{% endif %}
     {% if ogType %}<meta property="og:type" content="{{ ogType }}">{% endif %}
     <meta property="og:image" content="https://erikugartelopez.com{{ ogImage or '/erik-ugarte.jpg' }}">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
