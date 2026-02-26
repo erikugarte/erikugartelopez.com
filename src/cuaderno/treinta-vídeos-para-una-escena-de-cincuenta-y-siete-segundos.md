@@ -2,9 +2,9 @@
 title_es: Treinta vídeos para una escena de cincuenta y siete segundos
 title_en: Thirty videos for a fifty-seven-second scene
 date: 2026-03-02
-excerpt_es: En el capítulo dos de <em>La ballena de oro<em> hay un accidente. Ya
-  tiene palabras y música. Intenté darle imagen con una inteligencia artificial.
-  Lo que apareció se parecía a lo que llevo dentro.
+excerpt_es: En el capítulo dos de <em>La ballena de oro</em> hay un accidente.
+  Ya tiene palabras y música. Intenté darle imagen con una inteligencia
+  artificial. Lo que apareció se parecía a lo que llevo dentro.
 excerpt_en: In chapter two of <em>La ballena de oro</em> there is an accident.
   It already had words and music. I tried to give it image with an artificial
   intelligence. What appeared resembled what I carry inside.
