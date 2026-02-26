@@ -1,4 +1,4 @@
 {
     "layout": "layouts/article.njk",
-    "permalink": "/cuaderno/{{ page.fileSlug }}.html"
+    "permalink": "/cuaderno/{% if customSlug %}{{ customSlug }}{% else %}{{ page.fileSlug }}{% endif %}.html"
 }
