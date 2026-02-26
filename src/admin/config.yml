@@ -20,5 +20,7 @@ collections:
       - { label: "Extracto (ES)", name: "excerpt_es", widget: "text" }
       - { label: "Excerpt (EN)", name: "excerpt_en", widget: "text" }
       - { label: "Descripción SEO", name: "pageDescription", widget: "text", required: false }
+      - { label: "Imagen destacada (og:image)", name: "ogImage", widget: "image", required: false }
+      - { label: "Borrador", name: "draft", widget: "boolean", default: true, required: false }
       - { label: "Content (EN)", name: "body_en", widget: "markdown" }
       - { label: "Contenido (ES)", name: "body", widget: "markdown" }
