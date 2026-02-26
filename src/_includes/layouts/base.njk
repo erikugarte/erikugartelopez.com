@@ -8,7 +8,7 @@
     {% if ogTitle or title_es %}<meta property="og:title" content="{{ ogTitle or title_es }}">{% endif %}
     {% if ogDescription or excerpt_es %}<meta property="og:description" content="{{ ogDescription or excerpt_es }}">{% endif %}
     {% if ogType %}<meta property="og:type" content="{{ ogType }}">{% endif %}
-    <meta property="og:image" content="https://erikugartelopez.com/erik-ugarte.jpg">
+    <meta property="og:image" content="https://erikugartelopez.com{{ ogImage or '/erik-ugarte.jpg' }}">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <link rel="icon" href="/favicon.ico" sizes="32x32">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
