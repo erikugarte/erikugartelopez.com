@@ -16,8 +16,7 @@
             document.documentElement.lang = isEn ? 'en' : 'es';
             localStorage.setItem('lang', isEn ? 'en' : 'es');
         }
-        if (localStorage.getItem('lang') === 'en') { document.body.classList.add('lang-en'); document.documentElement.lang = 'en'; document.querySelector('.lang-toggle').textContent = 'ES'; }
-        const observer = new IntersectionObserver(e => { e.forEach(el => { if (el.isIntersecting) el.target.classList.add('visible'); }); }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+if (new URLSearchParams(window.location.search).get('lang') === 'en' || localStorage.getItem('lang') === 'en') { document.body.classList.add('lang-en'); document.documentElement.lang = 'en'; document.querySelector('.lang-toggle').textContent = 'ES'; localStorage.setItem('lang', 'en'); }        const observer = new IntersectionObserver(e => { e.forEach(el => { if (el.isIntersecting) el.target.classList.add('visible'); }); }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
         document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
     </script>
     <script>
