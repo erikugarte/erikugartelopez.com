@@ -34,30 +34,28 @@ Donald Winnicott lo llamó el falso self. Cuando un niño no puede ser quien es 
 
 Y dos décadas después, mientras rechazas un favor que necesitas, sin saber muy bien por qué, resulta que es porque sigues viviendo desde ese *falso yo* sin saber que lo estás haciendo. 
 
-Alice Miller escribió algo que no he podido quitarme de la cabeza desde que lo leí. En *El drama del niño dotado* — un título engañoso, porque no habla de superdotación sino de sensibilidad — describe a niños que desarrollan una capacidad extraordinaria para leer las necesidades emocionales del entorno. Son niños que saben exactamente cuándo el adulto está triste, cuándo está irritado, cuándo necesita que no se le moleste. Aprenden a regularse en función del otro antes de aprender a regularse en función de sí mismos. Son niños que cuidan. Y esa capacidad, que en la infancia es supervivencia, en la edad adulta se convierte en una forma de relacionarse que agota y que deja poco espacio para uno mismo.
+Alice Miller escribió algo que no he podido quitarme de la cabeza desde que lo leí. En *El drama del niño dotado* —un título engañoso, porque no habla de superdotación sino de sensibilidad— describe a niños que desarrollan una capacidad extraordinaria para leer las necesidades emocionales del entorno. Son niños que saben exactamente cuándo el adulto está triste, cuándo está irritado, cuándo necesita que no se le moleste. Aprenden a regularse en función del otro antes de aprender a regularse en función de sí mismos. Son niños que cuidan. Y esa capacidad, que en la infancia es supervivencia, en la edad adulta se convierte en una forma de relacionarse que agota y que deja poco espacio para uno mismo.
 
-Lo que Miller señala — y esto es lo que me parece más importante — es que estos niños raramente identifican su experiencia como traumática. Porque no hubo violencia, muchas veces. Porque comparado con otras historias, la suya no parece suficientemente grave. Y esa comparación es exactamente el mecanismo que hace que la huella tarde tanto en reconocerse.
+Lo que Miller señala —y esto es lo que me parece más importante— es que estos niños raramente identifican su experiencia como traumática. Porque no hubo violencia, muchas veces. Porque comparado con otras historias, la suya no parece suficientemente grave. Y esa comparación es exactamente el mecanismo que hace que la huella tarde tanto en reconocerse.
 
-Mi historia tiene eventos. Cosas concretas. Y aun así tardé mucho en entender que lo que cargaba tenía un nombre, y que ese nombre no invalidaba nada de lo que había pasado — al contrario.
+Mi historia tiene eventos. Cosas concretas. Y aun así tardé mucho en entender que lo que cargaba tenía un nombre, y que ese nombre no invalidaba nada de lo que había pasado —al contrario.
 
-Otto Scharmer habla de un proceso que llama la U. Es un modelo de transformación — originalmente pensado para organizaciones, pero que describe igual lo que ocurre a escala personal — que intenta explicar cómo ocurre el cambio real. No el cambio superficial, el que consiste en hacer más de lo mismo con más eficiencia. El cambio que viene de otro lugar.
+Otto Scharmer habla de un proceso que llama la U. Es un modelo de transformación —originalmente pensado para organizaciones, pero que describe igual lo que ocurre a escala personal— que intenta explicar cómo ocurre el cambio real. No el cambio superficial, el que consiste en hacer más de lo mismo con más eficiencia. El cambio que viene de otro lugar.
 
 La U tiene tres movimientos. El descenso: soltar las certezas, las defensas, las narrativas que hemos construido sobre quiénes somos. El fondo: el momento de quietud donde algo se ve con claridad por primera vez, sin los filtros habituales. Y el ascenso: la emergencia de algo nuevo desde ese lugar, algo que no era posible antes del descenso.
 
 Lo que me llama la atención de ese modelo es que el fondo no es un colapso. Es un punto de contacto con algo más real. Y que el ascenso no es una vuelta a donde estabas: es una dirección nueva.
 
-Reconocer un trauma que llevas décadas sin nombre se parece a eso. No es una revelación dramática. Es más parecido a un momento de quietud en el que algo encaja — una frase que alguien dice, un vídeo que ves, una escena de una novela — y de repente la narrativa que tenías sobre ti mismo se abre un poco. Lo suficiente para ver que hay algo debajo.
+Reconocer un trauma que llevas décadas sin nombre se parece a eso. No es una revelación dramática. Es más parecido a un momento de quietud en el que algo encaja — una frase que alguien dice, un vídeo que ves, una escena de una novela —y de repente la narrativa que tenías sobre ti mismo se abre un poco. Lo suficiente para ver que hay algo debajo.
 
-Escribí *La ballena de oro* durante años sin saber exactamente por qué la necesitaba. Ahora lo entiendo mejor: era una forma de bajar por esa U. De soltar la versión de los hechos que ya tenía — ordenada, manejable, sin demasiados bordes — para ver si había algo más real debajo.
+Escribí *La ballena de oro* durante años sin saber exactamente por qué la necesitaba. Ahora lo entiendo mejor: era una forma de bajar por esa U. De soltar la versión de los hechos que ya tenía —ordenada, manejable, sin demasiados bordes— para ver si había algo más real debajo.
 
 La escritura no es terapia. Pero hace algo parecido a lo que hace la terapia en sus mejores momentos: te obliga a quedarte con lo que es incómodo el tiempo suficiente para verlo. No para resolverlo. Para verlo.
 
-Lo que encontré al escribirla no fue curación. No confío mucho en los relatos que terminan así. Lo que encontré fue reconocimiento. El niño que aparece en la novela no es un caso clínico. Es alguien que estaba haciendo exactamente lo que tenía que hacer para seguir caminando. Verlo así — no como víctima, no como daño, sino como inteligencia que tuvo un coste — cambió algo. No todo. Algo.
+Lo que encontré al escribirla no fue curación. No confío mucho en los relatos que terminan así. Lo que encontré fue reconocimiento. El niño que aparece en la novela no es un caso clínico. Es alguien que estaba haciendo exactamente lo que tenía que hacer para seguir caminando. Verlo así — no como víctima, no como daño, sino como inteligencia que tuvo un coste —cambió algo. 
 
 No siempre hay un momento dramático en que esto ocurre. A veces es un vídeo de Instagram. A veces es una frase que alguien dice en una conversación y que de repente pone nombre a algo que llevas mucho tiempo cargando sin saber qué es. A veces es una novela que tardas diez años en terminar.
 
 Nombrar las cosas no las cura. Pero las hace reales. Y lo real, al menos, se puede sostener. Se puede mirar. Se puede, con tiempo, dejar de confundir con uno mismo.
 
-Si algo de lo que está aquí te resuena — la sensación de que tu historia no es suficientemente grave para merecer atención, la forma en que ciertas respuestas automáticas parecen carácter, la dificultad de distinguir entre quién eres y lo que aprendiste a ser — puede merecer la pena buscar más. No en Instagram. En alguien que sepa acompañar ese descenso.
-
-La huella
+Si algo de lo que está aquí te resuena —la sensación de que tu historia no es suficientemente grave para merecer atención, la forma en que ciertas respuestas automáticas parecen carácter, la dificultad de distinguir entre quién eres y lo que aprendiste a ser —puede merecer la pena buscar más. No en Instagram. En alguien que sepa acompañar ese descenso.
