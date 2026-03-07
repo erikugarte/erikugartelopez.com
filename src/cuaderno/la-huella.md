@@ -8,31 +8,31 @@ customSlug: la-huella
 draft: true
 body_en: La huella
 ---
-# La huella
+Mi *feed* de Instagram se está convirtiendo en la casa de "psicólogos influencers" que educan a la ciudadanía en neurodivergencia, TDAH y técnicas anti-estrés. Pero esta semana vi un vídeo más interesante. Un psicólogo explicaba qué es el trauma. Dijo algo que mucha gente no sabe: que el trauma no es el evento. Es la huella. Lo que queda cuando algo te superó y no tenías con qué sostenerte.
 
-Vi un vídeo esta semana. Un psicólogo explicaba qué es el trauma. Dijo algo que me quedó: que el trauma no es el evento. Es la huella. Lo que queda cuando algo nos superó y no teníamos con qué sostenernos.
+Llevo días pensando en eso. Y en por qué tardé decenas de conversaciones con mi psicóloga en entenderlo.
 
-Llevo días pensando en eso. Y en por qué tardé tanto en entenderlo.
+Hay un tipo de trauma que cuesta reconocer. A veces hay eventos que tienen nombre, normalmente asociados a fechas concretas, cosas que ocurrieron. Y, otras veces, no hay un momento claro sino una infancia en la que ocurrieron una serie de cosas que se fueron acumulando sin que nadie supiera ver lo que estaban dejando: la crítica que llegaba cuando no se esperaba, la soledad en medio de gente, el aprender muy pronto que hay emociones que es mejor no tener. O al menos es mejor no mostrarlas.
 
-Hay un tipo de trauma que cuesta reconocer. A veces hay eventos — fechas concretas, cosas que ocurrieron y que tienen nombre. Pero otras veces no hay un momento claro. Lo que hay es una infancia. Y dentro de esa infancia, una serie de cosas que se fueron acumulando sin que nadie — incluido uno mismo — supiera ver lo que estaban dejando: la crítica que llegaba cuando no se esperaba, la soledad en medio de gente, el aprender muy pronto que ciertas emociones era mejor no tenerlas. O al menos no mostrarlas.
+Lo que convierte algo en *trauma complejo* no es la presencia o ausencia de un evento concreto. Es el contexto en que ocurre. La edad. La relación con quien lo causa o con quien no lo impide. La soledad con la que se carga después. Un evento agudo dentro de una infancia que ya era frágil no es lo mismo que ese evento en otro contexto. Se instala de otra manera. Se lleva de otra manera. Y muchas veces se lleva durante décadas sin saber exactamente qué es lo que se tiene dentro.
 
-Lo que convierte algo en trauma complejo no es la presencia o ausencia de un evento concreto. Es el contexto en que ocurre. La edad. La relación con quien lo causa o con quien no lo impide. La soledad con la que se carga después. Un evento agudo dentro de una infancia que ya era frágil no es lo mismo que ese evento en otro contexto. Se instala de otra manera. Se lleva de otra manera. Y muchas veces se lleva durante décadas sin saber exactamente qué es lo que se está llevando.
+El término lo acuñó Judith Herman en 1992, en *Trauma and Recovery*, para distinguirlo del trauma agudo. Éste tiene un momento claro, un antes y un después que puedes reconocer. Pero el trauma complejo es relacional, es acumulativo, y se forma exactamente en el período en que somos más vulnerables. La infancia.
 
-El término lo acuñó Judith Herman en 1992, en *Trauma and Recovery*, para distinguirlo del trauma agudo — el que tiene un momento claro, un antes y un después reconocible. El trauma complejo es relacional, es acumulativo, y se forma exactamente en el período en que somos más vulnerables. La infancia.
+Lo que hace tan difícil de reconocer es que no duele de la misma manera. No siempre hay flashbacks o una escena que evitamos pensar. Pero hay un patrón, que se convierte en una forma de estar en el mundo que parece carácter. La dificultad para pedir ayuda. La incomodidad cuando alguien se acerca demasiado. La tendencia a desaparecer justo cuando las cosas van bien.
 
-Lo que hace tan difícil de reconocer es que no duele de la misma manera. No siempre hay flashbacks. No siempre hay una escena que la mente evite. Lo que hay es un patrón. Una forma de estar en el mundo que parece carácter.
+El significado de *patrón* parece haberse simplificado demasiado para el ciudadano común. Se usa para todo y ha perdido el peso que merece. Es una respuesta automática que dejó de sentirse como respuesta y empezó a sentirse como uno mismo. 
 
-Bessel van der Kolk lleva décadas investigando cómo el trauma se instala en el cuerpo — no en el recuerdo consciente, sino en los sistemas de respuesta automática. Su argumento central, desarrollado en *El cuerpo lleva la cuenta*, es que el trauma no vive en el pasado: vive en el presente, en la forma en que el sistema nervioso reacciona antes de que la mente tenga tiempo de pensar. El niño que aprendió que el entorno era impredecible crece con un sistema nervioso calibrado para la amenaza. No porque esté roto. Sino porque aprendió bien.
+Expertos como Bessel van der Kolk llevan décadas investigando cómo el trauma se instala en el cuerpo —no en el recuerdo consciente, sino en los sistemas de respuesta automática. Dice que el trauma no vive en el pasado sino en el presente, en la forma en que el sistema nervioso reacciona antes de que la mente tenga tiempo de pensar. El niño que aprendió que no podía controlar lo que le pasaba creció con un sistema nervioso calibrado para la amenaza. No es disfunción sino adaptación.
 
 Eso es lo que hace tan difícil de ver desde dentro.
 
-Si creciste en un entorno donde mostrar necesidad tenía un coste — emocional, relacional, lo que fuera — tu sistema aprendió a no mostrarla. Y con el tiempo eso se convierte en identidad. Te dices: soy independiente. Soy de los que no piden. Soy de los que se van antes de que les pidan que se queden. Lo dices casi con orgullo, porque en algún momento esa capacidad te salvó. Lo que no ves es que ya no estás en ese entorno. Que te llevas la respuesta a un lugar donde ya no hace falta.
+Si creciste en un entorno donde mostrar necesidad tenía un coste —emocional, relacional, lo que fuera— tu sistema aprendió a no mostrarla. Y con el tiempo eso se convierte en identidad. Te dices: soy independiente. Soy de los que no piden. Soy de los que se van antes de que les pidan que se queden. Lo dices casi con orgullo, porque en algún momento esa capacidad te salvó. Lo que no ves es que ya no estás en el mismo sitio, y que ya no necesitas sobrevivir a aquello porque ya lo hiciste. No necesitas dar la misma respuesta que antes.
 
-Yo me lo decía. Durante mucho tiempo.
+Yo me lo decía durante mucho tiempo.
 
-Donald Winnicott lo llamó el falso self. La idea es esta: cuando un niño no puede ser quien es — porque el entorno no lo sostiene, porque las emociones no son bienvenidas, porque la supervivencia emocional exige adaptación — construye una versión de sí mismo que sí puede existir ahí. Una versión más manejable, más segura, más aceptable. No es una mentira. Es una inteligencia. Es lo que un organismo hace cuando el entorno le dice, de mil maneras distintas, que tal como es no es suficiente.
+Donald Winnicott lo llamó el falso self. Cuando un niño no puede ser quien es porque las emociones no son bienvenidas, porque la supervivencia emocional exige adaptación, construye una versión de sí mismo que encaja ahí. Una más manejable, más segura, más aceptable. No es una mentira. Es una inteligencia. s lo que pasa cuando un niño entiende, antes de tener palabras para entenderlo, que así no funciona.
 
-El problema viene décadas después, cuando sigues viviendo desde ese falso self sin saber que lo estás haciendo. Cuando confundes la adaptación con la identidad.
+Y dos décadas después, mientras rechazas un favor que necesitas, sin saber muy bien por qué, resulta que es porque sigues viviendo desde ese *falso yo* sin saber que lo estás haciendo. 
 
 Alice Miller escribió algo que no he podido quitarme de la cabeza desde que lo leí. En *El drama del niño dotado* — un título engañoso, porque no habla de superdotación sino de sensibilidad — describe a niños que desarrollan una capacidad extraordinaria para leer las necesidades emocionales del entorno. Son niños que saben exactamente cuándo el adulto está triste, cuándo está irritado, cuándo necesita que no se le moleste. Aprenden a regularse en función del otro antes de aprender a regularse en función de sí mismos. Son niños que cuidan. Y esa capacidad, que en la infancia es supervivencia, en la edad adulta se convierte en una forma de relacionarse que agota y que deja poco espacio para uno mismo.
 
@@ -59,12 +59,5 @@ No siempre hay un momento dramático en que esto ocurre. A veces es un vídeo de
 Nombrar las cosas no las cura. Pero las hace reales. Y lo real, al menos, se puede sostener. Se puede mirar. Se puede, con tiempo, dejar de confundir con uno mismo.
 
 Si algo de lo que está aquí te resuena — la sensación de que tu historia no es suficientemente grave para merecer atención, la forma en que ciertas respuestas automáticas parecen carácter, la dificultad de distinguir entre quién eres y lo que aprendiste a ser — puede merecer la pena buscar más. No en Instagram. En alguien que sepa acompañar ese descenso.
-
-
-
-
-
-
-
 
 La huella
