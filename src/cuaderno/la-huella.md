@@ -8,7 +8,7 @@ customSlug: la-huella
 draft: true
 body_en: La huella
 ---
-Mi feed de Instagram se está convirtiendo en la casa de psicólogos influencers que educan a la ciudadanía en neurodivergencia, TDAH y técnicas anti-estrés. Pero esta semana un psicólogo hablaba de otra cosa, explicaba qué es el trauma. Dijo algo sencillo, casi obvio cuando lo escuchas el trauma no es el evento. La separación de tus padres, una moto que te arolla en mitad de la carretera, el tío que abusó de ti, bombardeos sobre tu ciudad, la abuela que muere demasiado pronto, la violencia en la escuela... Todo eso son eventos. Lo que queda cuando te superaron y no tenías con qué sostenerte. Eso es el trauma. La huella es el trauma.
+Mi feed de Instagram se está convirtiendo en la casa de psicólogos influencers que educan a la ciudadanía en neurodivergencia, TDAH y técnicas anti-estrés. Pero esta semana un psicólogo hablaba de otra cosa, explicaba qué es el trauma. Dijo algo sencillo, casi obvio cuando lo escuchas: el trauma no es el evento. La separación de tus padres, una moto que te arolla en mitad de la carretera, el tío que abusó de ti, bombardeos sobre tu ciudad, la abuela que muere demasiado pronto, la violencia en la escuela... Todo eso son eventos. Lo que queda cuando te superaron y no tenías con qué sostenerte. Eso es el trauma. La huella es el trauma.
 
 Llevo días pensando en eso. Y en por qué tardé decenas de conversaciones con mi psicóloga en entenderlo. Años, quizás.
 
@@ -20,13 +20,13 @@ Lo difícil es que no duele de la misma manera. O no duele de una manera que rec
 
 Ahí está el problema.
 
-Si creciste ahí donde mostrar necesidad tenía un coste emocional, relacional, o el que fuera, tus entrañas aprendieron a no mostrarla. Y con el tiempo crees se convierte en identidad. Te dices: soy independiente. Soy de los que no piden. Soy de los que se van antes de que les pidan que se queden. Lo dices casi con orgullo, porque en algún momento esa capacidad te salvó. Lo que no ves —lo que yo no veía— es que ya no estás en el mismo sitio. Que ya sobreviviste a aquello. Que la respuesta que das hoy fue diseñada para un lugar que ya no existe.
+La semana pasada tu jefe te dio más trabajo del que puedes cargar y le dijiste "claro, sin problema". Por dentro, sabes que algo no está bien, algo no encaja. Y no es la primera vez. Siempre es igual. Si creciste ahí donde mostrar necesidad tenía un coste emocional, relacional, o el que fuera, tus entrañas aprendieron a no mostrarla. Y con el tiempo crees que se convierte en identidad. Te dices: soy independiente. Soy de los que no piden. Soy de los que se van antes de que les pidan que se queden. Lo dices casi con orgullo, porque en algún momento esa capacidad te salvó. Lo que no ves —lo que yo no veía— es que ya no estás en el mismo sitio. En realidad, ya sobreviviste a aquello. Que la respuesta que das hoy fue diseñada para un lugar que ya no existe. Y quizá ya va siendo hora de construir una estrategia con la que vivir sin esas capas.
 
-Bessel van der Kolk lleva décadas investigando cómo el trauma se instala en el cuerpo, no en el recuerdo consciente sino en los sistemas de respuesta automática. El niño que aprendió que no podía controlar lo que le pasaba creció con un sistema nervioso calibrado para la amenaza. No es disfunción. Es adaptación. Lo que tocaba hacer entonces. Y por eso cuesta tanto verlo desde dentro, porque funcionó, porque te trajo hasta aquí.
+El trauma no vive en el recuerdo. Vive en el cuerpo, en cómo reacciona antes de que pienses. Van der Kolk lleva décadas diciéndolo. Si en la infancia aprendiste que no podía controlar lo que le pasaba, tu cuerpo —tu sistema— lo integró y creció calibrado para la amenaza. Lo llamamos disfunción pero no lo es. Era lo que tocaba entonces. Y por eso cuesta tanto verlo desde dentro, porque funcionó, porque te trajo hasta aquí.
 
 Winnicott lo llamó el falso self. Cuando un niño no puede ser quien es porque las emociones no son bienvenidas —o tienen un precio, o simplemente no caben— construye una versión de sí mismo que encaja. Más manejable. No es una mentira. Es lo que pasa cuando un niño entiende, antes de tener palabras para entenderlo, que así no va. Y dos décadas después, mientras rechazas un favor que necesitas sin saber muy bien por qué, resulta que sigues viviendo desde ahí. Sin saberlo.
 
-Alice Miller escribió algo que no he podido quitarme de la cabeza desde que lo leí, y que tiene que ver con todo esto aunque no lo parezca a primera vista. En *El drama del niño dotado* —un título engañoso, porque no habla de superdotación sino de sensibilidad, de una sensibilidad que aprendió a ponerse al servicio del entorno— describe a niños que desarrollan una capacidad extraordinaria para leer lo que ocurre emocionalmente a su alrededor. Niños que saben exactamente cuándo el adulto está triste, cuándo está irritado, cuándo necesita que no se le moleste. Que aprenden a regularse en función del otro antes de aprender a regularse en función de sí mismos.
+Alice Miller escribió algo que no he podido quitarme de la cabeza desde que lo leí, y que tiene que ver con todo esto aunque no lo parezca a primera vista. En uno de sus ensayos más famosos describe a niños que desarrollan una capacidad extraordinaria para leer lo que ocurre emocionalmente a su alrededor. Niños que saben exactamente cuándo el adulto está triste, cuándo está irritado, cuándo necesita que no se le moleste. Que aprenden a regularse en función del otro antes de aprender a regularse en función de sí mismos.
 
 Niños que cuidan.
 
@@ -44,6 +44,6 @@ Hay cosas que uno escribe sin saber exactamente por qué las necesita. Y que cua
 
 No siempre hay un momento dramático en que esto ocurre. A veces es un vídeo de Instagram. A veces es una frase en una conversación que de repente pone nombre a algo que llevas mucho tiempo cargando sin saber qué es.
 
-Nombrar las cosas no las cura. Pero las hace reales. Y lo real, al menos, se puede mirar. Se puede, con tiempo, dejar de confundir con uno mismo.
+Hace unas semanas, un familiar me dijo que apoyaba mis andaduras literarias si eso ayudaba a curar mis heridas. Y yo le respondí que no creo que cure nada. Que nombrar las cosas no las cura, pero las hace reales, y eso ayuda porque lo real, al menos, se puede mirar. Se puede, con tiempo, dejar de confundir con uno mismo.
 
 Si algo de esto te resuena —la sensación de que tu historia no es suficientemente grave, la forma en que ciertas respuestas automáticas parecen carácter, la dificultad de distinguir entre quién eres y lo que aprendiste a ser— puede merecer la pena buscar más. No en Instagram. En alguien que sepa acompañar eso.
