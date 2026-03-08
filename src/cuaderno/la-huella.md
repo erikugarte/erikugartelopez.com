@@ -16,7 +16,7 @@ Quizás tú también tenías eventos. Concretos y con fecha. Y aun así tampoco 
 
 Judith Herman lo llamó trauma complejo en 1992. Lo distinguió del trauma agudo —ese que tiene un momento claro, un antes y un después que puedes señalar. El complejo es diferente: relacional, acumulativo, y se forma exactamente cuando somos más vulnerables. La infancia.
 
-Lo difícil es que no duele de la misma manera. O no duele de una manera que reconozcas como dolor. No siempre hay flashbacks ni una escena que evitas pensar. Lo que hay es un patrón. Eso es lo que cuesta. Aunque la palabra patrón se ha vaciado tanto de tanto usarla que ya no pesa lo que debería. Lo que describe es concreto: la dificultad para pedir ayuda. La incomodidad cuando alguien se acerca demasiado. La tendencia a desaparecer justo cuando las cosas van bien. Una respuesta automática que en algún momento dejó de sentirse como respuesta y empezó a sentirse como uno mismo. Como carácter. Como ser así. Una capa fuerte y dura, pero sútil en su estética.
+Lo difícil es que no duele de la misma manera. O no duele de una manera que reconozcas como dolor. No siempre hay flashbacks ni una escena que evitas pensar. Lo que hay es un patrón. Eso es lo que cuesta. Aunque la palabra patrón se ha vaciado tanto de tanto usarla que ya no pesa lo que debería. Lo que describe es concreto: la dificultad para pedir ayuda. La incomodidad cuando alguien se acerca demasiado. La tendencia a desaparecer justo cuando las cosas van bien. Una respuesta automática que en algún momento dejó de sentirse como respuesta y empezó a sentirse como uno mismo. Como carácter. Como ser así. 
 
 Ahí está el problema.
 
@@ -44,6 +44,6 @@ Hay cosas que uno escribe sin saber exactamente por qué las necesita. Y que cua
 
 No siempre hay un momento dramático en que esto ocurre. A veces es un vídeo de Instagram. A veces es una frase en una conversación que de repente pone nombre a algo que llevas mucho tiempo cargando sin saber qué es.
 
-Hace unas semanas, un familiar me dijo que apoyaba mis andaduras literarias si eso ayudaba a curar mis heridas. Y yo le respondí que no creo que cure nada. Que nombrar las cosas no las cura, pero las hace reales, y eso ayuda porque lo real, al menos, se puede mirar. Se puede, con tiempo, dejar de confundir con uno mismo.
+Hace unas semanas, alguien me dijo que me animaba a seguir creando música, literatura, o cualquier cosa que me ayudara a curar mis heridas. Y yo le respondí que no creo que cure nada. Nombra las cosas, las hace reales, y eso ayuda porque lo real, al menos, se puede mirar. Se puede, con tiempo, dejar de confundir con uno mismo.
 
 Si algo de esto te resuena —la sensación de que tu historia no es suficientemente grave, la forma en que ciertas respuestas automáticas parecen carácter, la dificultad de distinguir entre quién eres y lo que aprendiste a ser— puede merecer la pena buscar más. No en Instagram. En alguien que sepa acompañar eso.
