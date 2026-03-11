@@ -1,7 +1,7 @@
 ---
 title_es: Mi historia no es para tanto
 title_en: My Story Isn't That Bad
-date: 2026-03-09
+date: 2026-03-11
 excerpt_es: El trauma no es el evento. Es lo que queda cuando te superó y no
   tenías con qué sostenerte. Un texto sobre trauma complejo, el falso self, y
   por qué tardamos décadas en reconocer las huellas de la infancia.
