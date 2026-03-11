@@ -34,7 +34,7 @@ body_en: >-
   Judith Herman called it complex trauma. She distinguished it from acute trauma—trauma with a clear moment, a before and after you can point to. The complex kind is different: relational, cumulative, and it forms exactly when we're most vulnerable. Childhood.
 
 
-  The difficult thing is that it doesn't hurt in the same way. Or it doesn't hurt in a way you recognize as pain. There aren't always flashbacks or a scene you avoid thinking about. What there is is a pattern. That's what's hard. Although the word pattern has been so emptied from so much use that it no longer weighs what it should. What it describes is concrete: the difficulty asking for help. The discomfort when someone gets too close. The tendency to disappear just when things are going well. An automatic response that stopped feeling like a response and became who you are. Like character. Like being this way.
+  The difficult thing is that it doesn't hurt in the same way. Or it doesn't hurt in a way you recognize as pain. There aren't always flashbacks or a scene you avoid thinking about. What there is is a pattern. That's what's hard. Although the word pattern has been so emptied from so much use that it no longer weighs what it should. What it describes is concrete: the difficulty asking for help. The discomfort when someone gets too close. The tendency to disappear just when things are going well. It can be almost anything. An automatic response that stopped feeling like a response and became who you are. Like character. Like being this way.
 
 
   <span class="marca">That's the problem.</span>
@@ -83,7 +83,7 @@ Quizás tú también tenías eventos. Concretos y con fecha. Y aun así tampoco 
 
 Judith Herman lo llamó trauma complejo. Lo distinguió del trauma agudo —ese que tiene un momento claro, un antes y un después que puedes señalar. El complejo es diferente: relacional, acumulativo, y se forma exactamente cuando somos más vulnerables. La infancia.
 
-Lo difícil es que no duele de la misma manera. O no duele de una manera que reconozcas como dolor. No siempre hay flashbacks ni una escena que evitas pensar. Lo que hay es un patrón. Eso es lo que cuesta. Aunque la palabra patrón se ha vaciado tanto de tanto usarla que ya no pesa lo que debería. Lo que describe es concreto: la dificultad para pedir ayuda. La incomodidad cuando alguien se acerca demasiado. La tendencia a desaparecer justo cuando las cosas van bien. Una respuesta automática que en algún momento dejó de sentirse como respuesta y empezó a sentirse como uno mismo. Como carácter. Como ser así. 
+Lo difícil es que no duele de la misma manera. O no duele de una manera que reconozcas como dolor. No siempre hay flashbacks ni una escena que evitas pensar. Lo que hay es un patrón. Eso es lo que cuesta. Aunque la palabra patrón se ha vaciado tanto de tanto usarla que ya no pesa lo que debería. Lo que describe es concreto: la dificultad para pedir ayuda. La incomodidad cuando alguien se acerca demasiado. La tendencia a desaparecer justo cuando las cosas van bien. Puede ser casi cualquier cosa. Una respuesta automática que en algún momento dejó de sentirse como respuesta y empezó a sentirse como uno mismo. Como carácter. Como ser así. 
 
 <span class="marca">Ahí está el problema.</span>
 
