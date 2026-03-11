@@ -18,10 +18,10 @@ body_en: >-
   Las hice para <span class="marca">mostrar cómo opera la disociación</span> — en diferentes formas, en diferentes momentos. No como concepto abstracto, sino como experiencia concreta: disolución, encierro, reducción, presencia. Cuatro materias: agua, óleo, carbón, oro.
 
 
-  **Todo es verde** es acuarela. El paisaje deja de ser fondo y se vuelve atmósfera. Las personas son manchas, humo, colores que casi no conservan su nombre. No sé si es una canción o un cuadro que no termina de fijarse — pero tiembla igual que temblaba el niño cuando miraba el río y no sabía si iba a volver. La percepción se diluye. El yo se mezcla con el agua.
+  **Todo es verde** es acuarela. El paisaje deja de ser fondo y se vuelve atmósfera. Las personas son manchas, humo, colores que casi no conservan su nombre. No sé si es una canción o un cuadro que no termina de fijarse pero tiembla igual que temblaba el niño cuando miraba el lago y no sabía si iba a volver. La percepción se diluye. El yo se mezcla con el agua.
 
 
-  **El cuarto** es óleo. Aquí la percepción no se disuelve, se espesa. Las paredes respiran, la pintura chorrea. Intenté que la música tuviera hambre, puertas, luz sucia bajo la puerta. Esa densidad del barro cuando ya no te queda aire y el cuarto te pinta a ti. La disociación como encierro — cuando el mundo se vuelve materia que cae encima.
+  **El cuarto** es óleo. Un óleo pringoso, al que le falta liquidez y donde la percepción no se disuelve, se espesa. Las paredes respiran, se contraen, la pintura chorrea. Intenté que la música tuviera hambre, puertas, luz sucia bajo la puerta. Esa densidad del barro cuando ya no te queda aire y el cuarto te pinta a ti. La disociación como encierro — cuando el mundo se vuelve materia que cae encima.
 
 
   **Geometría solitaria** reduce. Carboncillo. Líneas, rectángulos, halos eléctricos. El pueblo entero se vuelve geometría y el niño es un punto sin sombra suspendido sobre el vacío. Polvo, silencio, equilibrio precario entre ser y no ser. Eso que pasa cuando la noche te <span class="marca">convierte en dibujo</span> y ya no sientes nada porque te has vuelto línea.
